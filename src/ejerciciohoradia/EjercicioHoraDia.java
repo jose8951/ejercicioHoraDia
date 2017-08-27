@@ -1,14 +1,9 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Proyecto que pida al usuario la hora acutal, en horas y minutos
+ * mostrar si es de madrugada, si por la mañana, por la tarde
  */
 package ejerciciohoradia;
 
-/**
- *
- * @author jose
- */
 public class EjercicioHoraDia {
 
     /**
@@ -16,6 +11,7 @@ public class EjercicioHoraDia {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("");
     }
     
 }
